@@ -1,5 +1,5 @@
+<h1>Templete.</h1>
 
-
-<h1>Você chegou ao index</h1>
-
-
+<?php
+require $pagina;
+?>
